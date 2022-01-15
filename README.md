@@ -1,4 +1,4 @@
-# CS211-Project-2-Hexadoku
+# CS211-CompArch-Project-2-Hexadoku
 
 Summary:
 
