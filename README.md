@@ -13,3 +13,5 @@ If a solution is found, then you are done. Otherwise, if no moves can be taken a
 Part 3: One-Shot Learning (50 points)
 
 Given a house, we know the attributes of the house (i.e., x1, x2, x3, x4). However, we don’t know the weights for these attributes: w0, w1, w2, w3 and w4. The goal of the machine learning algorithm in our context is to learn the weights for the attributes of the house from lots of training data. Your main task in this part to implement a program to read the training data and learn the weights for each of the attributes. 
+
+MORE INFO: pa2.pdf
