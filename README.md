@@ -1,4 +1,4 @@
-# CS211-CompArch-Project-2-Hexadoku
+# CS211-CompArch-Project-2-Hexadoku-and-One-Shot-Learning
 
 Summary:
 
