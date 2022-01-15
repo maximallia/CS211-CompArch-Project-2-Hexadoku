@@ -1,4 +1,4 @@
-# CS214-Project-2-Hexadoku
+# CS211-Project-2-Hexadoku
 
 Summary:
 
